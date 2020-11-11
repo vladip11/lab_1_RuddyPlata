@@ -1,8 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+//Repositorio en GitHub:  https://github.com/vladip11/lab_1_RuddyPlata.git
+
 package laboratorio_1;
 
 import java.io.ByteArrayInputStream;
@@ -13,7 +11,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author CAB COMPUTERS
+ * @author vladip11
  */
 public class CirculoTest {
 
@@ -98,3 +96,5 @@ public class CirculoTest {
         assertEquals(consoleOutput, out.toString());
     }
 }
+
+//Repositorio en GitHub:  https://github.com/vladip11/lab_1_RuddyPlata.git
